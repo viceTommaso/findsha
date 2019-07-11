@@ -58,12 +58,12 @@ def password(t_letters, t_sha):
                         for f in t_letters:
                             for g in t_letters:
                                 for h in t_letters:
-                                    trypas = a + b + c + d + e + f + g + h
+                                    trysha = a + b + c + d + e + f + g + h
                                     if boold:
-                                        print(trypas)
-                                    findsha = allsha(trypas, t_sha)
+                                        print(trysha)
+                                    findsha = allsha(trysha, t_sha)
                                     if t_sha == findsha:
-                                        print("password:  " + trypas)
+                                        print("original word:  " + trysha)
                                         return 0
 
 
