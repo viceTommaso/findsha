@@ -17,7 +17,7 @@ python3
 
 ## Tags
 
-PEP8, UTF-8, shebang, SHA, password, cmd
+PEP8, UTF-8, shebang, SHA, cmd
 
 ## Changelog
 
