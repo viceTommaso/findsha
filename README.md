@@ -3,7 +3,7 @@
 
 ## Prerequisites
 
-python3
+python 3
 
 ## Program
 
