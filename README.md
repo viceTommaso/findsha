@@ -2,7 +2,7 @@
 
 
 ## Prerequisites
-python 3
+[python 3](https://www.python.org/downloads/)
 
 ## Program
 The program processes a given SHA in input and by attempts finds the original word
